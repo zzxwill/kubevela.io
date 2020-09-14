@@ -1,7 +1,7 @@
 # KubeVela Website
 [kubevela.io](https://kubevela.io)
 
-## Contribution
+## Contributing
 
 - Fork and clone
 
