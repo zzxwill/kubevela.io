@@ -17,7 +17,7 @@ If you would like to override the default css of Jekyll, please revise [./assets
 - Build static files
 
 Generate static files into folder `docs` which will be the source for Github Pages.
-```
+The following command uses [bundler](https://bundler.io/).
 $ bundle exec jekyll build -d docs
 Configuration file: /Users/zhouzhengxi/Programming/golang/src/github.com/zzxwill/kubevela.io/_config.yml
             Source: /Users/zhouzhengxi/Programming/golang/src/github.com/zzxwill/kubevela.io
