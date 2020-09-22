@@ -5,15 +5,15 @@
 layout: home
 ---
 
-![](logo.jpg)
+![](assets/images/logo.jpg)
 
 # Overview
 
-For developers and operators, KubeVela, as a out-of-box Cloud Native Application Management Platform, provides numerous
-workloads and operation toolings for application defining, deployment, scaling, traffic, rollout, routing, monitoring,
+For developers and operators, KubeVela, as an out-of-box Cloud Native Application Management Platform, provides numerous
+workloads and operation tooling for application defining, deployment, scaling, traffic, rollout, routing, monitoring,
 logging, alerting, CICD and so on.
 
-For platform builders, KubeVela, as a highly extensible PaaS/Serverless Core, provides pluginable capabilities, an elegant
+For platform builders, KubeVela, as a highly extensible PaaS/Serverless Core, provides pluggable capabilities, an elegant
 way to integrate any Workloads and Traits.
 
 # Get Started
