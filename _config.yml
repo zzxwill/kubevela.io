@@ -21,7 +21,7 @@
 title: KubeVela
 email: https://gitter.im/oam-dev/
 description: >- # this means to ignore newlines until "baseurl:"
-  The Open Application Platform based on Kubernetes and OAM
+  The highly extensible application platform based on Kubernetes and OAM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kubevela.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oam_dev

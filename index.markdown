@@ -7,26 +7,29 @@ layout: home
 
 ![](assets/images/logo.jpg)
 
+*Make shipping applications more enjoyable.*
+
+
 # Overview
 
-For developers and operators, KubeVela, as an out-of-box Cloud Native Application Management Platform, provides numerous
-workloads and operation tooling for application defining, deployment, scaling, traffic, rollout, routing, monitoring,
-logging, alerting, CICD and so on.
+For developers, KubeVela is an easy-to-use tool that enables them to describe and ship their applications to Kubernetes 
+with minimal effort.
 
-For platform builders, KubeVela, as a highly extensible PaaS/Serverless Core, provides pluggable capabilities, an elegant
-way to integrate any Workloads and Traits.
+For platform builders, KubeVela serves as a framework that empowers them to create developer facing yet highly 
+extensible platforms at ease.
 
 # Get Started
 
-Check out [Get Started](https://github.com/oam-dev/kubevela) to try KubeVela.
+Check out [Get Started](https://github.com/oam-dev/kubevela/blob/master/docs/quick-start.md) to try KubeVela.
 
 Explore [Cli docs](https://github.com/oam-dev/kubevela/tree/master/documentation/cli) to get a quick glance
 of the power of KubeVela.
 
 # Community
-Updating...
 
+- Slack: [Discuss](https://cloud-native.slack.com/archives/C01BLQ3HTJA)
+- Gitter: [Community](https://gitter.im/oam-dev/community)
 
 # Support or Contact
 
-Having trouble with KubeVela? File an [issue](https://github.com/oam-dev/kubevela/issues), or contact us directly [Twitter](https://twitter.com/oam_dev) or [Gitter](https://gitter.im/oam-dev/)
+Having trouble with KubeVela? File an [issue](https://github.com/oam-dev/kubevela/issues), or contact us directly via [Twitter](https://twitter.com/oam_dev) or [Gitter](https://gitter.im/oam-dev/)
